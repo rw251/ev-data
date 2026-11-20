@@ -1,0 +1,4782 @@
+{
+  "updated": "2026-11-20",
+  "as_of_date": "2026-11-20",
+  "count": 109,
+  "families": [
+    {
+      "family_id": "family-evdb-1138",
+      "variant_ids": [
+        "evdb-1138"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1138",
+          "name": "Tesla Model 3 Long Range AWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2019-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1138",
+          "name": "Tesla Model 3 Long Range AWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1252",
+      "variant_ids": [
+        "evdb-1252"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1252",
+          "name": "BMW i4 eDrive40",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2021-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1252",
+          "name": "BMW i4 eDrive40"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1321",
+      "variant_ids": [
+        "evdb-1321"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1321",
+          "name": "Tesla Model 3 Long Range AWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2020-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1321",
+          "name": "Tesla Model 3 Long Range AWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1322",
+      "variant_ids": [
+        "evdb-1322"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1322",
+          "name": "Tesla Model 3 Performance",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2020-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1322",
+          "name": "Tesla Model 3 Performance"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1323",
+      "variant_ids": [
+        "evdb-1323"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1323",
+          "name": "Tesla Model S Long Range Plus",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2020-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1323",
+          "name": "Tesla Model S Long Range Plus"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1404",
+      "variant_ids": [
+        "evdb-1404"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1404",
+          "name": "Tesla Model S Dual Motor",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1404",
+          "name": "Tesla Model S Dual Motor"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1405",
+      "variant_ids": [
+        "evdb-1405"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1405",
+          "name": "Tesla Model S Plaid",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1405",
+          "name": "Tesla Model S Plaid"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1483",
+      "variant_ids": [
+        "evdb-1483"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1483",
+          "name": "Mercedes-Benz EQS 450+",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2021-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1483",
+          "name": "Mercedes-Benz EQS 450+"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1519",
+      "variant_ids": [
+        "evdb-1519"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1519",
+          "name": "BMW i4 M50",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2021-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1519",
+          "name": "BMW i4 M50"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1591",
+      "variant_ids": [
+        "evdb-1591"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1591",
+          "name": "Tesla Model 3 Long Range AWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2022-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1591",
+          "name": "Tesla Model 3 Long Range AWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1619",
+      "variant_ids": [
+        "evdb-1619"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1619",
+          "name": "Tesla Model Y Long Range AWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2022-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1619",
+          "name": "Tesla Model Y Long Range AWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1620",
+      "variant_ids": [
+        "evdb-1620"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1620",
+          "name": "Tesla Model 3 Performance",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2022-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1620",
+          "name": "Tesla Model 3 Performance"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1906",
+      "variant_ids": [
+        "evdb-1906"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1906",
+          "name": "BMW i5 eDrive40 Saloon (MY23-24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-05-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1906",
+          "name": "BMW i5 eDrive40 Saloon (MY23-24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1971",
+      "variant_ids": [
+        "evdb-1971"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1971",
+          "name": "CUPRA Tavascan Endurance",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1971",
+          "name": "CUPRA Tavascan Endurance"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1976",
+      "variant_ids": [
+        "evdb-1976"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1976",
+          "name": "Tesla Model 3 Long Range RWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1976",
+          "name": "Tesla Model 3 Long Range RWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-1992",
+      "variant_ids": [
+        "evdb-1992"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-1992",
+          "name": "Tesla Model 3 Long Range AWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1992",
+          "name": "Tesla Model 3 Long Range AWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2008",
+      "variant_ids": [
+        "evdb-2008"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2008",
+          "name": "Mercedes-Benz EQS 450+",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-06-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2008",
+          "name": "Mercedes-Benz EQS 450+"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2020",
+      "variant_ids": [
+        "evdb-2020"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2020",
+          "name": "Škoda Enyaq 85 (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2020",
+          "name": "Škoda Enyaq 85 (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2024",
+      "variant_ids": [
+        "evdb-2024"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2024",
+          "name": "Škoda Enyaq Coupe 85 (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2024",
+          "name": "Škoda Enyaq Coupe 85 (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2025",
+      "variant_ids": [
+        "evdb-2025"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2025",
+          "name": "Škoda Enyaq Coupe 85x (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2025",
+          "name": "Škoda Enyaq Coupe 85x (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2026",
+      "variant_ids": [
+        "evdb-2026"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2026",
+          "name": "Škoda Enyaq Coupe vRS (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2026",
+          "name": "Škoda Enyaq Coupe vRS (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2031",
+      "variant_ids": [
+        "evdb-2031"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2031",
+          "name": "Volkswagen ID.5 Pro (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2031",
+          "name": "Volkswagen ID.5 Pro (MY24-25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2114",
+      "variant_ids": [
+        "evdb-2114"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2114",
+          "name": "BMW i5 eDrive40 Touring (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2114",
+          "name": "BMW i5 eDrive40 Touring (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2155",
+      "variant_ids": [
+        "evdb-2155"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2155",
+          "name": "Mercedes-Benz EQS 350",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-10-08",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2155",
+          "name": "Mercedes-Benz EQS 350"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2158",
+      "variant_ids": [
+        "evdb-2158"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2158",
+          "name": "Volkswagen ID.7 Tourer GTX (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-08-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2158",
+          "name": "Volkswagen ID.7 Tourer GTX (MY24-25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2186",
+      "variant_ids": [
+        "evdb-2186"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2186",
+          "name": "Tesla Model Y Long Range RWD",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2186",
+          "name": "Tesla Model Y Long Range RWD"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2188",
+      "variant_ids": [
+        "evdb-2188"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2188",
+          "name": "Tesla Model 3 Performance (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-05-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2188",
+          "name": "Tesla Model 3 Performance (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2193",
+      "variant_ids": [
+        "evdb-2193"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2193",
+          "name": "Mercedes-Benz EQS 450+",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2193",
+          "name": "Mercedes-Benz EQS 450+"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2194",
+      "variant_ids": [
+        "evdb-2194"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2194",
+          "name": "Mercedes-Benz EQS 450 4MATIC",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-04-24",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2194",
+          "name": "Mercedes-Benz EQS 450 4MATIC"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2199",
+      "variant_ids": [
+        "evdb-2199"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2199",
+          "name": "BMW i4 eDrive40",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-06-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2199",
+          "name": "BMW i4 eDrive40"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2216",
+      "variant_ids": [
+        "evdb-2216"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2216",
+          "name": "Volkswagen ID.7 GTX (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-08-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2216",
+          "name": "Volkswagen ID.7 GTX (MY24-25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2236",
+      "variant_ids": [
+        "evdb-2236"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2236",
+          "name": "Hyundai IONIQ 5 84 kWh RWD (MY24)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2236",
+          "name": "Hyundai IONIQ 5 84 kWh RWD (MY24)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2241",
+      "variant_ids": [
+        "evdb-2241"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2241",
+          "name": "Ford Capri Extended Range RWD (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2241",
+          "name": "Ford Capri Extended Range RWD (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2242",
+      "variant_ids": [
+        "evdb-2242"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2242",
+          "name": "Ford Capri Extended Range AWD (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2242",
+          "name": "Ford Capri Extended Range AWD (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2270",
+      "variant_ids": [
+        "evdb-2270"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2270",
+          "name": "Audi A6 Sportback e-tron performance (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2270",
+          "name": "Audi A6 Sportback e-tron performance (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2271",
+      "variant_ids": [
+        "evdb-2271"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2271",
+          "name": "Audi S6 Sportback e-tron (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2271",
+          "name": "Audi S6 Sportback e-tron (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2272",
+      "variant_ids": [
+        "evdb-2272"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2272",
+          "name": "Audi A6 Avant e-tron performance (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2272",
+          "name": "Audi A6 Avant e-tron performance (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-2273",
+      "variant_ids": [
+        "evdb-2273"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-2273",
+          "name": "Audi S6 Avant e-tron (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2273",
+          "name": "Audi S6 Avant e-tron (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3028",
+      "variant_ids": [
+        "evdb-3028"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3028",
+          "name": "Kia EV6 RWD (MY25-27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3028",
+          "name": "Kia EV6 RWD (MY25-27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3033",
+      "variant_ids": [
+        "evdb-3033"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3033",
+          "name": "Škoda Elroq 85 (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3033",
+          "name": "Škoda Elroq 85 (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3034",
+      "variant_ids": [
+        "evdb-3034"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3034",
+          "name": "Tesla Model 3 Long Range RWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3034",
+          "name": "Tesla Model 3 Long Range RWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3052",
+      "variant_ids": [
+        "evdb-3052"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3052",
+          "name": "Audi A6 Sportback e-tron quattro (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3052",
+          "name": "Audi A6 Sportback e-tron quattro (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3053",
+      "variant_ids": [
+        "evdb-3053"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3053",
+          "name": "Audi A6 Sportback e-tron (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3053",
+          "name": "Audi A6 Sportback e-tron (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3054",
+      "variant_ids": [
+        "evdb-3054"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3054",
+          "name": "Audi A6 Avant e-tron quattro (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3054",
+          "name": "Audi A6 Avant e-tron quattro (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3055",
+      "variant_ids": [
+        "evdb-3055"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3055",
+          "name": "Audi A6 Avant e-tron (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3055",
+          "name": "Audi A6 Avant e-tron (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3077",
+      "variant_ids": [
+        "evdb-3077"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3077",
+          "name": "DS Automobiles N°8 FWD Long Range",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3077",
+          "name": "DS Automobiles N°8 FWD Long Range"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3097",
+      "variant_ids": [
+        "evdb-3097"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3097",
+          "name": "Škoda Enyaq 85 (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3097",
+          "name": "Škoda Enyaq 85 (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3098",
+      "variant_ids": [
+        "evdb-3098"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3098",
+          "name": "Škoda Enyaq 85x (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3098",
+          "name": "Škoda Enyaq 85x (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3100",
+      "variant_ids": [
+        "evdb-3100"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3100",
+          "name": "Škoda Enyaq Coupe 85 (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3100",
+          "name": "Škoda Enyaq Coupe 85 (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3101",
+      "variant_ids": [
+        "evdb-3101"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3101",
+          "name": "Škoda Enyaq Coupe 85x (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3101",
+          "name": "Škoda Enyaq Coupe 85x (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3104",
+      "variant_ids": [
+        "evdb-3104"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3104",
+          "name": "Tesla Model Y Long Range AWD (Juniper)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3104",
+          "name": "Tesla Model Y Long Range AWD (Juniper)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3106",
+      "variant_ids": [
+        "evdb-3106"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3106",
+          "name": "Tesla Model Y Long Range AWD Launch Series (Juniper)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3106",
+          "name": "Tesla Model Y Long Range AWD Launch Series (Juniper)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3112",
+      "variant_ids": [
+        "evdb-3112"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3112",
+          "name": "BMW i5 eDrive40 Saloon (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3112",
+          "name": "BMW i5 eDrive40 Saloon (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3115",
+      "variant_ids": [
+        "evdb-3115"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3115",
+          "name": "BMW i5 eDrive40 Touring (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3115",
+          "name": "BMW i5 eDrive40 Touring (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3120",
+      "variant_ids": [
+        "evdb-3120"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3120",
+          "name": "Tesla Model Y Long Range RWD (Juniper)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-02-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3120",
+          "name": "Tesla Model Y Long Range RWD (Juniper)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3122",
+      "variant_ids": [
+        "evdb-3122"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3122",
+          "name": "Kia EV4 Fastback 81.4 kWh (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3122",
+          "name": "Kia EV4 Fastback 81.4 kWh (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3183",
+      "variant_ids": [
+        "evdb-3183"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3183",
+          "name": "Škoda Elroq vRS (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-06-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3183",
+          "name": "Škoda Elroq vRS (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3184",
+      "variant_ids": [
+        "evdb-3184"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3184",
+          "name": "Škoda Enyaq vRS (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-06-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3184",
+          "name": "Škoda Enyaq vRS (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3185",
+      "variant_ids": [
+        "evdb-3185"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3185",
+          "name": "Škoda Enyaq Coupe vRS (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-06-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3185",
+          "name": "Škoda Enyaq Coupe vRS (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3205",
+      "variant_ids": [
+        "evdb-3205"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3205",
+          "name": "BMW i4 eDrive40",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3205",
+          "name": "BMW i4 eDrive40"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3207",
+      "variant_ids": [
+        "evdb-3207"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3207",
+          "name": "BMW i4 M60 xDrive",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3207",
+          "name": "BMW i4 M60 xDrive"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3254",
+      "variant_ids": [
+        "evdb-3254"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3254",
+          "name": "Volkswagen ID.5 Pro (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3254",
+          "name": "Volkswagen ID.5 Pro (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3255",
+      "variant_ids": [
+        "evdb-3255"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3255",
+          "name": "Volkswagen ID.5 GTX (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3255",
+          "name": "Volkswagen ID.5 GTX (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3258",
+      "variant_ids": [
+        "evdb-3258"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3258",
+          "name": "Volkswagen ID.7 GTX (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3258",
+          "name": "Volkswagen ID.7 GTX (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3261",
+      "variant_ids": [
+        "evdb-3261"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3261",
+          "name": "Volkswagen ID.7 Tourer GTX (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3261",
+          "name": "Volkswagen ID.7 Tourer GTX (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3269",
+      "variant_ids": [
+        "evdb-3269"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3269",
+          "name": "Tesla Model Y Performance (Juniper)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-08-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3269",
+          "name": "Tesla Model Y Performance (Juniper)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3275",
+      "variant_ids": [
+        "evdb-3275"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3275",
+          "name": "XPENG G6 RWD Long Range (MY25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-03-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3275",
+          "name": "XPENG G6 RWD Long Range (MY25)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3290",
+      "variant_ids": [
+        "evdb-3290"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3290",
+          "name": "BMW iX3 50 xDrive (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-09-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3290",
+          "name": "BMW iX3 50 xDrive (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3296",
+      "variant_ids": [
+        "evdb-3296"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3296",
+          "name": "Mercedes-Benz GLC 400 4MATIC",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-11-05",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3296",
+          "name": "Mercedes-Benz GLC 400 4MATIC"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3330",
+      "variant_ids": [
+        "evdb-3330"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3330",
+          "name": "Tesla Model 3 Long Range RWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3330",
+          "name": "Tesla Model 3 Long Range RWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3331",
+      "variant_ids": [
+        "evdb-3331"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3331",
+          "name": "Tesla Model 3 Long Range AWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3331",
+          "name": "Tesla Model 3 Long Range AWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3332",
+      "variant_ids": [
+        "evdb-3332"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3332",
+          "name": "Tesla Model 3 Performance (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3332",
+          "name": "Tesla Model 3 Performance (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3333",
+      "variant_ids": [
+        "evdb-3333"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3333",
+          "name": "Tesla Model Y Premium AWD (Juniper)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3333",
+          "name": "Tesla Model Y Premium AWD (Juniper)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3363",
+      "variant_ids": [
+        "evdb-3363"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3363",
+          "name": "Tesla Model Y Premium RWD (Juniper - LG 5L)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-12-05",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3363",
+          "name": "Tesla Model Y Premium RWD (Juniper - LG 5L)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3373",
+      "variant_ids": [
+        "evdb-3373"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3373",
+          "name": "Škoda Elroq vRS (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3373",
+          "name": "Škoda Elroq vRS (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3374",
+      "variant_ids": [
+        "evdb-3374"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3374",
+          "name": "Škoda Enyaq 85x (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-03-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3374",
+          "name": "Škoda Enyaq 85x (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3375",
+      "variant_ids": [
+        "evdb-3375"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3375",
+          "name": "Škoda Enyaq vRS (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-27",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3375",
+          "name": "Škoda Enyaq vRS (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3376",
+      "variant_ids": [
+        "evdb-3376"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3376",
+          "name": "Škoda Enyaq Coupe 85x (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-03-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3376",
+          "name": "Škoda Enyaq Coupe 85x (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3377",
+      "variant_ids": [
+        "evdb-3377"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3377",
+          "name": "Škoda Enyaq Coupe vRS (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-10-27",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3377",
+          "name": "Škoda Enyaq Coupe vRS (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3396",
+      "variant_ids": [
+        "evdb-3396"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3396",
+          "name": "Mercedes-Benz CLA Shooting Brake 250+",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-11-24",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3396",
+          "name": "Mercedes-Benz CLA Shooting Brake 250+"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3397",
+      "variant_ids": [
+        "evdb-3397"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3397",
+          "name": "Mercedes-Benz CLA Shooting Brake 350 4MATIC",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-11-24",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3397",
+          "name": "Mercedes-Benz CLA Shooting Brake 350 4MATIC"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3403",
+      "variant_ids": [
+        "evdb-3403"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3403",
+          "name": "Tesla Model 3 RWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3403",
+          "name": "Tesla Model 3 RWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3404",
+      "variant_ids": [
+        "evdb-3404"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3404",
+          "name": "Tesla Model 3 Premium RWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3404",
+          "name": "Tesla Model 3 Premium RWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3405",
+      "variant_ids": [
+        "evdb-3405"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3405",
+          "name": "Tesla Model 3 Premium AWD (Highland)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3405",
+          "name": "Tesla Model 3 Premium AWD (Highland)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3406",
+      "variant_ids": [
+        "evdb-3406"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3406",
+          "name": "Mercedes-Benz GLB 250+",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3406",
+          "name": "Mercedes-Benz GLB 250+"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3407",
+      "variant_ids": [
+        "evdb-3407"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3407",
+          "name": "Mercedes-Benz GLB 350 4MATIC",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3407",
+          "name": "Mercedes-Benz GLB 350 4MATIC"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3441",
+      "variant_ids": [
+        "evdb-3441"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3441",
+          "name": "Volvo EX60 P6 (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-21",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3441",
+          "name": "Volvo EX60 P6 (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3442",
+      "variant_ids": [
+        "evdb-3442"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3442",
+          "name": "Volvo EX60 P10 AWD (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-01-21",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3442",
+          "name": "Volvo EX60 P10 AWD (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3452",
+      "variant_ids": [
+        "evdb-3452"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3452",
+          "name": "Ford Capri Extended Range RWD (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3452",
+          "name": "Ford Capri Extended Range RWD (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3476",
+      "variant_ids": [
+        "evdb-3476"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3476",
+          "name": "Tesla Model Y Premium RWD (Juniper - LG 5M)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2025-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3476",
+          "name": "Tesla Model Y Premium RWD (Juniper - LG 5M)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3496",
+      "variant_ids": [
+        "evdb-3496"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3496",
+          "name": "Volkswagen ID.4 Pro (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-09",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3496",
+          "name": "Volkswagen ID.4 Pro (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3500",
+      "variant_ids": [
+        "evdb-3500"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3500",
+          "name": "Volkswagen ID.5 Pro (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-09",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3500",
+          "name": "Volkswagen ID.5 Pro (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3551",
+      "variant_ids": [
+        "evdb-3551"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3551",
+          "name": "Mercedes-Benz C 400 4MATIC",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-05-12",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3551",
+          "name": "Mercedes-Benz C 400 4MATIC"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3566",
+      "variant_ids": [
+        "evdb-3566"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3566",
+          "name": "Škoda Elroq 85 (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3566",
+          "name": "Škoda Elroq 85 (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3570",
+      "variant_ids": [
+        "evdb-3570"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3570",
+          "name": "Škoda Enyaq 85 (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3570",
+          "name": "Škoda Enyaq 85 (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3571",
+      "variant_ids": [
+        "evdb-3571"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3571",
+          "name": "Škoda Enyaq 85x (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3571",
+          "name": "Škoda Enyaq 85x (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3572",
+      "variant_ids": [
+        "evdb-3572"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3572",
+          "name": "Škoda Enyaq RS (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3572",
+          "name": "Škoda Enyaq RS (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3574",
+      "variant_ids": [
+        "evdb-3574"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3574",
+          "name": "Škoda Enyaq Coupe 85 (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3574",
+          "name": "Škoda Enyaq Coupe 85 (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3575",
+      "variant_ids": [
+        "evdb-3575"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3575",
+          "name": "Škoda Enyaq Coupe 85x (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3575",
+          "name": "Škoda Enyaq Coupe 85x (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3576",
+      "variant_ids": [
+        "evdb-3576"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3576",
+          "name": "Škoda Enyaq Coupe RS (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3576",
+          "name": "Škoda Enyaq Coupe RS (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3577",
+      "variant_ids": [
+        "evdb-3577"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3577",
+          "name": "Mercedes-Benz EQS 400 (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-26",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3577",
+          "name": "Mercedes-Benz EQS 400 (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3578",
+      "variant_ids": [
+        "evdb-3578"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3578",
+          "name": "Mercedes-Benz EQS 450+ (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-26",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3578",
+          "name": "Mercedes-Benz EQS 450+ (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3580",
+      "variant_ids": [
+        "evdb-3580"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3580",
+          "name": "Mercedes-Benz EQS 580 4MATIC (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-04-26",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3580",
+          "name": "Mercedes-Benz EQS 580 4MATIC (MY26)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3601",
+      "variant_ids": [
+        "evdb-3601"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3601",
+          "name": "Volkswagen ID.7 GTX (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-03-31",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3601",
+          "name": "Volkswagen ID.7 GTX (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3605",
+      "variant_ids": [
+        "evdb-3605"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3605",
+          "name": "Volkswagen ID.7 Tourer GTX (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-03-31",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3605",
+          "name": "Volkswagen ID.7 Tourer GTX (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "vw-id7-fastback-pro-77-rwd",
+      "variant_ids": [
+        "evdb-1839",
+        "evdb-3256",
+        "evdb-3599"
+      ],
+      "grouping_reason": "Same ID.7 generation, body style, named battery and RWD version across model years; verify advert trim separately.",
+      "variants": [
+        {
+          "id": "evdb-1839",
+          "name": "Volkswagen ID.7 Pro (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3256",
+          "name": "Volkswagen ID.7 Pro (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3599",
+          "name": "Volkswagen ID.7 Pro (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2023-11-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1839",
+          "name": "Volkswagen ID.7 Pro (MY24-25)"
+        },
+        {
+          "id": "evdb-3256",
+          "name": "Volkswagen ID.7 Pro (MY26)"
+        },
+        {
+          "id": "evdb-3599",
+          "name": "Volkswagen ID.7 Pro (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "vw-id7-fastback-pro-s-86-rwd",
+      "variant_ids": [
+        "evdb-1840",
+        "evdb-3257",
+        "evdb-3600"
+      ],
+      "grouping_reason": "Same ID.7 generation, body style, named battery and RWD version across model years; verify advert trim separately.",
+      "variants": [
+        {
+          "id": "evdb-1840",
+          "name": "Volkswagen ID.7 Pro S (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3257",
+          "name": "Volkswagen ID.7 Pro S (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3600",
+          "name": "Volkswagen ID.7 Pro S (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-1840",
+          "name": "Volkswagen ID.7 Pro S (MY24-25)"
+        },
+        {
+          "id": "evdb-3257",
+          "name": "Volkswagen ID.7 Pro S (MY26)"
+        },
+        {
+          "id": "evdb-3600",
+          "name": "Volkswagen ID.7 Pro S (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "vw-id7-tourer-pro-77-rwd",
+      "variant_ids": [
+        "evdb-2118",
+        "evdb-3259",
+        "evdb-3603"
+      ],
+      "grouping_reason": "Same ID.7 generation, body style, named battery and RWD version across model years; verify advert trim separately.",
+      "variants": [
+        {
+          "id": "evdb-2118",
+          "name": "Volkswagen ID.7 Tourer Pro (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3259",
+          "name": "Volkswagen ID.7 Tourer Pro (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3603",
+          "name": "Volkswagen ID.7 Tourer Pro (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-05-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2118",
+          "name": "Volkswagen ID.7 Tourer Pro (MY24-25)"
+        },
+        {
+          "id": "evdb-3259",
+          "name": "Volkswagen ID.7 Tourer Pro (MY26)"
+        },
+        {
+          "id": "evdb-3603",
+          "name": "Volkswagen ID.7 Tourer Pro (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "vw-id7-tourer-pro-s-86-rwd",
+      "variant_ids": [
+        "evdb-2119",
+        "evdb-3260",
+        "evdb-3604"
+      ],
+      "grouping_reason": "Same ID.7 generation, body style, named battery and RWD version across model years; verify advert trim separately.",
+      "variants": [
+        {
+          "id": "evdb-2119",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY24-25)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3260",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        },
+        {
+          "id": "evdb-3604",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY27)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "watching",
+      "automatic_reason": "Established or unknown-age family; check immediately",
+      "lifecycle_status": "watching",
+      "next_check_date": "2026-11-20",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2024-07-01",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Established or unknown-age family; check immediately",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-2119",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY24-25)"
+        },
+        {
+          "id": "evdb-3260",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY26)"
+        },
+        {
+          "id": "evdb-3604",
+          "name": "Volkswagen ID.7 Tourer Pro S (MY27)"
+        }
+      ]
+    }
+  ]
+}
