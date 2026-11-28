@@ -1,7 +1,7 @@
 {
   "updated": "2026-11-20",
-  "as_of_date": "2026-11-27",
-  "count": 109,
+  "as_of_date": "2026-11-28",
+  "count": 110,
   "families": [
     {
       "family_id": "family-evdb-1138",
@@ -3956,6 +3956,49 @@
         {
           "id": "evdb-3500",
           "name": "Volkswagen ID.5 Pro (MY27)"
+        }
+      ]
+    },
+    {
+      "family_id": "family-evdb-3505",
+      "variant_ids": [
+        "evdb-3505"
+      ],
+      "grouping_reason": "Conservative exact-variant seed; no equivalence inferred across batteries, drivetrains or generations.",
+      "variants": [
+        {
+          "id": "evdb-3505",
+          "name": "BMW iX3 40 (MY26)",
+          "qualification": "qualified",
+          "manual_status": "unreviewed"
+        }
+      ],
+      "automatic_status": "new",
+      "automatic_reason": "Awaiting six months after release/estimated first seen",
+      "lifecycle_status": "new",
+      "next_check_date": "2026-11-28",
+      "first_seen_date": "2026-11-20",
+      "release_date": "2026-05-28",
+      "release_date_estimated": false,
+      "last_checked_date": null,
+      "last_attempted_date": null,
+      "last_check_outcome": null,
+      "last_observed_low_price_gbp": null,
+      "last_observed_mileage": null,
+      "last_observation_count": 0,
+      "price_observations": [],
+      "status_reason": "Awaiting six months after release/estimated first seen",
+      "status_override": null,
+      "due_date_override": null,
+      "solid_contender_approval": null,
+      "manually_overridden": false,
+      "checks": [],
+      "solid_contender_ready": false,
+      "updated_at": "2026-11-20",
+      "eligible_variants": [
+        {
+          "id": "evdb-3505",
+          "name": "BMW iX3 40 (MY26)"
         }
       ]
     },
